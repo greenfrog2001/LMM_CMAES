@@ -1,0 +1,16 @@
+venv/
+dist/
+build/
+__pycache__/
+.mypy_cache/
+*.pyc
+.eggs/
+*.egg-info/
+.tox/
+.hypothesis
+
+tmp/
+benchmark/*.json
+*.stats
+*.sqlite3
+
